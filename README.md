@@ -1,1 +1,1 @@
-# World_Quant_University_DataScience_miniprojects
+## Miniprojects of Data Science - World Quant University
